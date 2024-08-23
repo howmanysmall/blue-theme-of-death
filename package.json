@@ -18,5 +18,12 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.8.3"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/howmanysmall/blue-theme-of-death.git"
+	},
+	"author": "Marcus Notch",
+	"license": "MIT",
+	"contributors": ["HowManySmall"]
 }

@@ -1,0 +1,22 @@
+{
+	"name": "blue-theme-of-death",
+	"displayName": "blue-theme-of-death",
+	"description": "Agony in theme form.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.92.0"
+	},
+	"categories": ["Themes"],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Blue Theme of Death",
+				"uiTheme": "vs",
+				"path": "./themes/Blue Theme of Death-color-theme.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.8.3"
+	}
+}
